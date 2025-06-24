@@ -1,2 +1,10 @@
-# ListaDeTarefas
-Este projeto consiste em uma aplicação de terminal desenvolvida em Java, com o objetivo de gerenciar tarefas por meio de um menu interativo. A aplicação permite a criação, exibição, conclusão e categorização de tarefas utilizando tags personalizáveis.
+# Lista De Tarefas
+
+Este é um projeto simples de terminal feito em Java que permite criar, listar, concluir e categorizar tarefas com o uso de tags personalizadas.
+
+✨ Funcionalidades:
+
+- Criar tarefas com título, descrição e tags
+- Concluir tarefas pendentes
+- Visualizar todas as tarefas com suas informações completas
+- Adicionar e gerenciar tags personalizadas
